@@ -6,4 +6,7 @@ passo-a-passo-git
 #3 - git add . (caso tenha algo fora do seu git voce de adicionar usando "git add" + "nome arquivo", ou usar o "." para adicionar todos)
 #4 - git commit -m "mensagem do seu commit" (voce pode colocar um texto que explique o que foi feito nesse momento)
 
-Obs: Caso voce queira, use o git status entre cada um dos passos para conferir as mudanças desejadas 
+Obs1: Caso voce queira, use o git status entre cada um dos passos para conferir as mudanças desejadas.
+
+Obs2: Voce pode usar o "git log" para saber quem fez cada alteração.
+Obs3: Use  o "git diff" para saber o que foi alterado antes de commit.
