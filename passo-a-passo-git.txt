@@ -9,4 +9,19 @@ passo-a-passo-git
 Obs1: Caso voce queira, use o git status entre cada um dos passos para conferir as mudanças desejadas.
 
 Obs2: Voce pode usar o "git log" para saber quem fez cada alteração.
+
 Obs3: Use  o "git diff" para saber o que foi alterado antes de commit.
+
+SUBINDO PARA O GitHub
+
+#5 - Crie um repositório no GitHub.
+
+#6 - copie a url e coloque nesse comando $ git remote add origin https://github.com/usuario/vbergadev.git 
+
+#7 - git push -u origin master.
+
+Obs4: Para continuar fazendo alterações e atualizar seu repositório remoto USE:
+    git add .
+    git commit -m "digite sua mensagem de commit aqui"
+    git push origin master 
+
