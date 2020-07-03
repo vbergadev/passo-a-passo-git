@@ -1,0 +1,9 @@
+passo-a-passo-git
+
+
+#1 - git init (apenas uma vez no arquivo para não gerar sub-modulos)
+#2 - git status (para saber como estão seus arquivos)
+#3 - git add . (caso tenha algo fora do seu git voce de adicionar usando "git add" + "nome arquivo", ou usar o "." para adicionar todos)
+#4 - git commit -m "mensagem do seu commit" (voce pode colocar um texto que explique o que foi feito nesse momento)
+
+Obs: Caso voce queira, use o git status entre cada um dos passos para conferir as mudanças desejadas 
